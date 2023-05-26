@@ -1,0 +1,54 @@
+#main-content{
+  
+ margin-top: 50px;
+}
+.info{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+}
+.personal{
+  display: block;
+}
+h1{
+  justify-content: center;
+  display: flex;
+  margin: 20px 20px ;
+}
+.banner {
+  text-align: center; /* Centra el contenido horizontalmente */
+  
+}
+
+.banner img {
+  margin-top: 20px;
+  max-width: 100%; /* Ajusta la imagen al ancho del contenedor */
+
+}
+
+.foto{
+  text-align: center;
+}
+.foto img {
+  
+  margin: auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 20%;
+  
+}
+
+.sobremi {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  padding-inline: 0;
+  
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
